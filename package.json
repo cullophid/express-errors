@@ -1,5 +1,5 @@
 {
-  "name": "express-errors",
+  "name": "express-http-errors",
   "version": "0.0.0",
   "description": "Http errors for express",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/cullophid/express-errors.git"
+    "url": "git://github.com/cullophid/express-http-errors.git"
   },
   "keywords": [
     "HTTP",
@@ -18,7 +18,7 @@
   "author": "Andreas Møller",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cullophid/express-errors/issues"
+    "url": "https://github.com/cullophid/express-http-errors/issues"
   },
   "homepage": "https://github.com/cullophid/express-errors"
 }
